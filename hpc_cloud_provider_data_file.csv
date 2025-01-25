@@ -1,0 +1,6 @@
+﻿Cloud Provider,HPC Instances,Processor,Physical Cores,Total Memory (GB),Network Bandwidth (Gbps),On-Demand Hourly Cost (USD),Region
+AWS,hpc7a.96xlarge,AMD EPYC 9R14 (Genoa-X) [x86-64],192,768,300,7.2,US East (Ohio)
+Azure,Standard_HX176rs,AMD EPYC 9V33X (Genoa-X) [x86-64],176,1408,400,8.64,East US
+GCP,h3-standard-88,4th Gen Intel Xeon Scalable (Sapphire Rapids) [x86-64],88,352,200,4.9236,Iowa (us-central1)
+OCI,BM.HPC.E5.144,AMD EPYC 9J14  (Genoa-X) [x86-64],144,768,100,6.34,US West (Phoenix)
+IBM Cloud,cx3d-176x440,4th Gen Intel Xeon Scalable (Sapphire Rapids) [x86-64],88,440,150,8.029,Dallas (us-south)
