@@ -1,1 +1,3 @@
-# HPC-Cloud-Provider-Evaluation
+# MCDM Framework for HPC Cloud Provider Evaluation with TOPSIS and Advanced Statistical Analysis
+
+This repository provides the implementation of a comprehensive Multi-Criteria Decision-Making (MCDM) framework for evaluating HPC cloud providers using the TOPSIS method, enhanced with advanced statistical techniques such as sensitivity analysis, bootstrapping, and non-parametric tests (Friedman test). The framework is applied to assess major cloud platforms, including AWS, Microsoft Azure, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), and IBM Cloud, based on key criteria like CPU cores, memory, network bandwidth, and cost. The repository includes Python code, datasets, and scripts for reproducibility, making it a valuable resource for researchers and practitioners in the field of cloud-based HPC and decision analysis.
